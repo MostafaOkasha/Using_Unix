@@ -9,6 +9,6 @@ Just some random unix stuff.
 | cd /dir1/dir2/..etc | Makes the current directory the directory that you specify from the command that follows|
 
 
-### >> :arrow_right:
+### When in vi editor >> esq :arrow_right: :wq :arrow_right: save and exit!
 ### >> :arrow_right:
 ### >> :arrow_right:
